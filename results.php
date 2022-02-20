@@ -27,12 +27,12 @@
         <div class="form-section">
             <h2>Inserisci il nome del tuo comune</h2>
             <form method="POST" action="results.php">
-        <input type="text" class="city-input" name="city" id="city" placeholder="Comune...">
-        <input type="submit" class="btn" value="CERCA"></input>
+                <input type="text" class="city-input" name="city" id="city" placeholder="Comune...">
+                <input type="submit" class="btn" value="CERCA"></input>
         </form>
             
         </div>
-        <p>Il codice del tuo comune è</p>
+        <h5>Il codice del tuo comune è</h5>
         <div class="result"><h1 id="result"><?php echo $result?></h1></div>
     </section>
 

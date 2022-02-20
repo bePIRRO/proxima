@@ -19,7 +19,7 @@
         </form>
             
         </div>
-        <p>Il codice del tuo comune è</p>
+        <h5>Il codice del tuo comune è</h5>
         <div class="result"><h1 id="result"></h1></div>
     </section>
 

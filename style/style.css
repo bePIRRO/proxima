@@ -2,10 +2,38 @@
   background-color: #46ccbc;
   border: 1px solid #1f9082;
   font-weight: 700;
+  width: 200px;
 }
 
 a,
 h6 {
   color: grey;
   text-decoration: none;
+}
+
+#city {
+  background-color: #f5f5f5;
+  border: 1px solid #a8a8a8;
+  width: 400px;
+  margin-right: 30px;
+}
+
+.btn,
+#city {
+  height: 60px;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+
+.form-section {
+  margin-top: 50px;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+form {
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
