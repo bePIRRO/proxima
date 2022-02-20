@@ -1,0 +1,11 @@
+.btn {
+  background-color: #46ccbc;
+  border: 1px solid #1f9082;
+  font-weight: 700;
+}
+
+a,
+h6 {
+  color: grey;
+  text-decoration: none;
+}
